@@ -1,0 +1,4 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=1194
+
+Visual FoxPro 8 syntax file heavilly based on vfp.vim (from Edward franks).
+I added the typical uppercase conversion for FoxPro keywords and functions but I dropped the 4 letter abbreviations.
